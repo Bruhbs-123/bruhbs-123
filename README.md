@@ -4,7 +4,7 @@
 
 SOBRE MIM👯
 - Atualmente curso ADS (Análise e Desenvolvimento de Sistemas) no CEUB
-- Tenho 19 anos
+- Tenho 20 anos
 - Sonho em trabalhar na área de front-end
 - Tenho diploma de fluência na língua inglesa  
 
