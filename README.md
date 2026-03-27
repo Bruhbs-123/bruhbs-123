@@ -22,7 +22,7 @@ Me chamo **Bruna Bonifácio**! Amo estudar tecnologia. ✨
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas (Tudo em Rosa! 🌸)
+### 🛠️ Tecnologias e Ferramentas 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=FF69B4" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=FF69B4" alt="Java" />
@@ -35,15 +35,8 @@ Me chamo **Bruna Bonifácio**! Amo estudar tecnologia. ✨
 
 ---
 
-### 💻 Projetos em Destaque
-🌐 **Confira meus trabalhos principais:**
 
-* 🎮 [**GameTech**](https://bruna-gametech.netlify.app/#ark2) - Interface moderna focada no universo gamer.
-* 🌸 [**Portfólio Pessoal**](https://bruna-bonifacio-soares-santos.netlify.app/) - Conheça mais sobre minha trajetória.
-
----
-
-### 📊 GitHub Stats (Rosa & Neutros 🌸)
+### 📊 GitHub Stats 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bruhbs-123&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=FF69B4&hide_border=true&include_all_commits=true&count_private=true" />
 
@@ -58,15 +51,14 @@ Me chamo **Bruna Bonifácio**! Amo estudar tecnologia. ✨
 
 ---
 
-### 🐾 Meus companheiros de código
-*(Espaço reservado para fotos dos seus gatinhos!)* 🐈‍⬛
+
 
 ### 📫 Vamos conversar?
 <div align="center">
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:brunaboni2014@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/seu-link" target="_blank">
+  <a href="https://linkedin.com/in/brunabonifacio" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
