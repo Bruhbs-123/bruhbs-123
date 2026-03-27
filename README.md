@@ -1,65 +1,145 @@
-  <div align="center">
-  <img width="100%" alt="github-header-banner" src="https://github.com/user-attachments/assets/8cf3d47f-f6f8-4736-9cb6-42dec769b1bb" />
-  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Bruna Bonifácio</h1>
-  <p><i>Estudante de ADS @ CEUB | Cybersecurity Enthusiast | 20 anos</i></p>
-</div>
+<img width="2125" height="575" alt="github-header-banner(2)" src="https://github.com/user-attachments/assets/8cf3d47f-f6f8-4736-9cb6-42dec769b1bb" />
 
----
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" width="30" /> Sobre mim
-Me chamo **Bruna**! Sou apaixonada por tecnologia e por como a segurança da informação protege nosso mundo digital. ✨
-
-* 🎓 Atualmente no **3° semestre de ADS no CEUB**.
-* 🛡️ Focada em **Cibersegurança** e Redes.
-* 🌎 **Inglês Fluente** para colaborações internacionais.
-* 🌸 Buscando unir estética (UI/UX) com robustez (Segurança).
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> No que estou trabalhando:
-- 🔭 **Projeto Integrador:** "Rede Solidária" - conectando pessoas através da tecnologia.
-- 🧪 Estudando **Exploitation**, **Redes** e **Java**.
-- 🥅 **Meta 2026:** Estágio em Cyber/Dev e certificações (CompTIA/Security+).
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1_Ueq4uz4S_Knp2UJ0O2KL6QTUZixXJ4P/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Acessar_Meu_Currículo-FF69B4?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
-</div>
 
----
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=FF69B4" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=FF69B4" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=FF69B4" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white&color=FF69B4" />
+
   <br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=FF69B4" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=FF69B4" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=FF69B4" />
+
+  
+
+  <h1>🌸 Bruna Bonifácio 🌸</h1>
+
+  <p><i>Estudante de ADS | Dev júnior | Cybersecurity Enthusiast | 20 anos</i></p>
+
 </div>
+
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> Minhas estatísticas
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Hearts" width="35" /> Sobre mim
+
+Me chamo **Bruna Bonifácio**! Amo tecnologia. ✨
+
+
+* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **CEUB** (3° semestre).
+
+* 💻 Minha área favorita da TI é Segurança da Informação.
+
+* 🌎 **Fluente em Inglês**.
+
+
+  
+
+---
+
+
+### 🌱 No que estou trabalhando:
+
+- 🔭 Realizando o projeto integrador da falcudade "Rede Solidária".
+
+- 🌱 Aprofundando conhecimentos em **Java** e **Cibersegurança**.
+
+- 🥅 Objetivo para 2026: Conseguir um estágio na área, desenvolver projetos autônomos e obter mais certificações.
+
+
+---
+
+
+### 🎀 Meu currículo: 
+
+
+Caso queira ver: https://drive.google.com/file/d/1_Ueq4uz4S_Knp2UJ0O2KL6QTUZixXJ4P/view?usp=drive_link
+
+
+---
+
+
+### 🛠️ Tecnologias e Ferramentas 
+
 <div align="center">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bruhbs-123&show_icons=true&theme=rosepine&hide_border=false&border_color=FF69B4&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bruhbs-123&layout=compact&theme=rosepine&hide_border=false&border_color=FF69B4" />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=FF69B4" alt="Python" />
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=FF69B4" alt="Java" />
+
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white&color=FF69B4" alt="SQL" />
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=FF69B4" alt="JavaScript" />
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=FF69B4" alt="HTML5" />
+
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=FF69B4" alt="CSS3" />
+
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=FF69B4" alt="Linux" />
+
+</div>
+
+
+---
+
+
+
+### 📊 Minhas estatísticas
+
+<div align="center">
+
+  <img height="135em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bruhbs-123&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=FF69B4&hide_border=true&include_all_commits=true&count_private=true" />
+
+  <img height="135em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bruhbs-123&layout=compact&bg_color=FF69B4&title_color=ffffff&text_color=ffffff&icon_color=000000&hide_border=true" />
+
+
   <br><br>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=bruhbs-123&theme=rose-pine&background=1a1b27&ring=FF69B4&fire=FF69B4&currStreakNum=FF69B4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&border=FF69B4" />
+
+
+  <img height="135em" src="https://github-readme-streak-stats.herokuapp.com/?user=bruhbs-123&theme=dark&background=FF69B4&ring=FFFFFF&fire=FFFFFF&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+
 </div>
+
+ 
+
+
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" width="30" /> Vamos nos conectar?
+
+
+
+### 📫 Meus contatos
+
+
+
 <div align="center">
-  <a href="mailto:brunaboni2014@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/brunabonifacio"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/brunaboni88"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+  <a href="mailto:brunaboni2014@gmail.com">
+
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF69B4" alt="Gmail" />
+
+  </a>
+
+  
+
+  <a href="https://linkedin.com/in/brunabonifacio" target="_blank">
+
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=FF69B4" alt="LinkedIn" />
+
+  </a>
+
+  
+
+  <a href="https://instagram.com/brunaboni88" target="_blank">
+
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=FF69B4" alt="Instagram" />
+
+  </a>
+
 </div>
 
-<p align="center">💖 Obrigada por visitar! </p>
 
+---
+
+  <p align="center">💖 Obrigada por visitar meu perfil!</p> 
   
