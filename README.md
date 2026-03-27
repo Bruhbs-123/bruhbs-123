@@ -1,21 +1,78 @@
-## Me chamo Bruna Bonifácio 😄
+  <img width="2125" height="575" alt="github-header-banner(2)" src="https://github.com/user-attachments/assets/8cf3d47f-f6f8-4736-9cb6-42dec769b1bb" />
 
-**Olá esse é o meu gitHub!⚡**
 
-SOBRE MIM👯
-- Atualmente curso ADS (Análise e Desenvolvimento de Sistemas) no CEUB
-- Tenho 20 anos
-- Sonho em trabalhar na área de front-end
-- Tenho diploma de fluência na língua inglesa  
+<div align="center">
 
-### 🤖 Linguagens 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <br>
+  
+  <h1>🌸 Bruna Bonifácio 🌸</h1>
+  <p><i>Estudante de ADS | Dev júnior | 20 anos</i></p>
 </div>
 
-### Meus Contatos 📫
+---
+
+### 💕 Sobre mim
+Me chamo **Bruna Bonifácio**! Amo estudar tecnologia. ✨
+
+* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **CEUB** (3° semestre).
+* 💻 Amo cibersegurança**.
+* 🌎 **Fluente em Inglês**.
+* 🎀 Apaixonada por tecnologia, interfaces bonitas e setups organizados.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas (Tudo em Rosa! 🌸)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=FF69B4" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=FF69B4" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white&color=FF69B4" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=FF69B4" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=FF69B4" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=FF69B4" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=FF69B4" alt="Linux" />
+</div>
+
+---
+
+### 💻 Projetos em Destaque
+🌐 **Confira meus trabalhos principais:**
+
+* 🎮 [**GameTech**](https://bruna-gametech.netlify.app/#ark2) - Interface moderna focada no universo gamer.
+* 🌸 [**Portfólio Pessoal**](https://bruna-bonifacio-soares-santos.netlify.app/) - Conheça mais sobre minha trajetória.
+
+---
+
+### 📊 GitHub Stats (Rosa & Neutros 🌸)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bruhbs-123&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=FF69B4&hide_border=true&include_all_commits=true&count_private=true" />
+
+  <br><br>
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bruhbs-123&layout=compact&bg_color=FF69B4&title_color=ffffff&text_color=ffffff&icon_color=000000&hide_border=true" />
+  
+  <br><br>
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bruhbs-123&theme=dark&background=FF69B4&ring=FFFFFF&fire=FFFFFF&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+</div>
+
+---
+
+### 🐾 Meus companheiros de código
+*(Espaço reservado para fotos dos seus gatinhos!)* 🐈‍⬛
+
+### 📫 Vamos conversar?
+<div align="center">
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/seu-link" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+<p align="center">💖 Obrigada por visitar meu perfil!</p>
 
  <div> 
 
